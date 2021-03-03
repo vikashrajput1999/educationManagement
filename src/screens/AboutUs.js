@@ -17,7 +17,7 @@ const {height, width} = Dimensions.get('window');
 export function AboutUs({navigation}) {
   return (
     <SafeAreaView>
-    <ImageBackground blurRadius={0} source={require('../assets/abbk.jpg')} style={{width, height, flex: 1}}>
+    <ImageBackground blurRadius={0} source={require('../assets/edbk.jpg')} style={{width, height, flex: 1}}>
       <View
         style={{
           justifyContent: 'space-between',
